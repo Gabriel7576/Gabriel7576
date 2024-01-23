@@ -1,4 +1,4 @@
-### Ola, Eu sou o Gabriel 👋
+# Ola, Eu sou o Gabriel 👋
 Sou um entusiasta da programação e desenvolvedor de software. Trabalho na área há um tempo, e minha paixão é transformar linhas de código em soluções impactantes.
 
 Experiência Profissional
