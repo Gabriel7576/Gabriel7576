@@ -3,12 +3,12 @@ Sou um entusiasta da programação e desenvolvedor de software. Trabalho na áre
 
 ## Experiência Profissional
 <ul>
-### <li>Desenvolvedor de Software | LJR</li>
+<li>Desenvolvedor de Software | LJR</li>
     <ul>
       <li>LJR</li>
       <li>[2 Anos]</li>
     </ul>
-### <li>Tecnologias</li>
+<li>Tecnologias</li>
   <ul>
     <li>Linguagens: Java</li>
     <li>Bancos de Dados: Oracle, MySQL</li>
