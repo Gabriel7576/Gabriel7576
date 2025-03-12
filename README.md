@@ -3,11 +3,6 @@ Sou estudante de engenharia de software. Trabalho na área há um tempo, e minha
 
 ## Experiência Profissional
 <ul>
-<li>Desenvolvedor de Software | LJR</li>
-    <ul>
-      <li>LJR</li>
-      <li>[2 Anos]</li>
-    </ul>
 <li>Tecnologias</li>
   <ul>
     <li>Linguagens: Java, Typescript</li>
