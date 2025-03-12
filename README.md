@@ -6,8 +6,8 @@ Sou estudante de engenharia de software. Trabalho na área há um tempo, e minha
 <li>Tecnologias</li>
   <ul>
     <li>Linguagens: Java, Typescript</li>
-    <li>Bancos de Dados: Oracle, MySQL</li>
+    <li>Bancos de Dados: MySQL</li>
     <li>Sistemas Operacionais: Linux, Windows</li>
-    <li>Web: Angular, HTML, CSS</li>
+    <li>Web: HTML, CSS</li>
   </ul>
 </ul>
