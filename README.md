@@ -26,7 +26,3 @@ Sou um estudante de **Engenharia de Software** apaixonado por tecnologia, desenv
 
 - Linkedin: [gabrielamaral-dev](https://www.linkedin.com/in/gabrielamaral-dev/)  
 - E-mail: [gabrielamaral7575@gmail.com](mailto:gabrielamaral7575@gmail.com)
-
----
-
-Se quiser, posso também personalizar para deixar com um estilo mais descontraído, técnico ou visual (com emojis, badges, etc). Quer que eu ajuste?
